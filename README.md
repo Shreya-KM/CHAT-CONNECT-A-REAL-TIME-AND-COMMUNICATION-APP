@@ -1,10 +1,11 @@
-# Chat App
+[Chat_Connect_App_Akshaya_Leroy_Pavitra_Shreya_Srinith.zip](https://github.com/user-attachments/files/17779278/Chat_Connect_App_Akshaya_Leroy_Pavitra_Shreya_Srinith.zip)# Chat App
 
 A native real-time messaging application built using Kotlin language with MVVM design pattern and Coroutines for managing background tasks and managing the flow of data. This app utilizes Firebase Firestore as data storage solution and Firebase Cloud Messaging for notifications.
 
 ## Demo
 
 https://drive.google.com/file/d/1lid3GUvDTZ26S4dnlB_PmqOMS8RNRyP4/view?usp=sharing
+
 
 ## Features
 - Real-time messaging: Users can send and receive messages in real-time.
