@@ -4,7 +4,7 @@ A native real-time messaging application built using Kotlin language with MVVM d
 
 ## Demo
 
-https://user-images.githubusercontent.com/65214194/215805328-fe1046e7-8bfc-41e6-8c6f-6ec6fc1d1b09.mp4
+https://drive.google.com/file/d/1lid3GUvDTZ26S4dnlB_PmqOMS8RNRyP4/view?usp=sharing
 
 ## Features
 - Real-time messaging: Users can send and receive messages in real-time.
